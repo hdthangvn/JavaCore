@@ -5,6 +5,6 @@ public class Video26 {
 		System.out.println("run video 26");
 		Student st1 = new Student();
 		Student st2 = new Student("Thang", 21);
-		System.out.println(st2.name + " " + st2.age);
+
 	}
 }
