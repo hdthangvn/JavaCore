@@ -9,4 +9,10 @@ public class SinhVienCoKhi extends SinhVien {
 		// TODO Auto-generated constructor stub
 	}
 
+	@Override
+	void tinhDiem() {
+		// TODO Auto-generated method stub
+
+	}
+
 }
